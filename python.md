@@ -1,3 +1,3 @@
-# About python
+# About Noya
 
 [home](/)
